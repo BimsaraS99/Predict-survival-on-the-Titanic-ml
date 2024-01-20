@@ -14,7 +14,7 @@ Contrary to common approaches utilizing Logistic Regression, we opted for a Supp
 
 ## Performance Evaluation
 
-While accuracy serves as a comprehensive measure of performance, it's essential to consider other metrics such as precision and recall. These metrics provide a more nuanced understanding of the model's strengths and weaknesses. In our case, the SVM model's accuracy of 83.3% speaks to its efficacy, but it's advised to delve into precision and recall for a more comprehensive evaluation.
+While accuracy serves as a comprehensive measure of performance, it's essential to consider other metrics such as precision and recall. These metrics provide a more nuanced understanding of the model's strengths and weaknesses. In our case, the SVM model's accuracy of 88.8% speaks to its efficacy, but it's advised to delve into precision and recall for a more comprehensive evaluation.
 
 ## Conclusion
 
